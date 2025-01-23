@@ -3,6 +3,9 @@
 		".env.*": "dotenv",
 		".prettierrc": "json",
 		"*.css": "css",
-		"stdio.h": "c"
+		"stdio.h": "c",
+		"ctype.h": "c",
+		"string.h": "c",
+		"algorithm": "c"
 	}
 }
